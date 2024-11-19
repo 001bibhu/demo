@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="cona2">
+    <title>cona2</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>gfhjfgfn</p>
+        <p conref="cona1.dita#cona1/abcd"/>
+        <note conref="cona1.dita#cona1/note_lnw_z1p_jdc" id="note_rjv_ccp_jdc"/>
+    </conbody>
+</concept>

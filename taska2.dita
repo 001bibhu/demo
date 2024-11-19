@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="taska2">
+    <title>taska2</title>
+    <shortdesc></shortdesc>
+    <taskbody>
+        <context>
+            <p>fdvfdv</p>
+            <p conref="cona1.dita#cona1/abcd"/>
+        </context>
+        <steps>
+            <step>
+                <cmd>dfbfdbfb hjkh khh khk kh kh khkh </cmd>
+                <stepresult/>
+            </step>
+        </steps>
+    </taskbody>
+</task>

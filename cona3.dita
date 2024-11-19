@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="cona3">
+    <title>cona3</title>
+    <shortdesc>yjghjghj</shortdesc>
+    <conbody>
+        <p>Hardware Asset Management (HAM) licensing enables you to choose the Hardware Asset
+            Management resource categories that you want to use. You can save money by paying only
+            for those categories that you use, and not for categories that you don't use.</p>
+        <fig id="fig_cqz_yb1_jdc">
+            <title/>
+            <image href="screenshot1.png" id="image_lkt_zb1_jdc"/>
+            <image>
+                <alt>kjh kjhkh kjhkjh</alt>
+            </image>
+        </fig>
+        <table frame="all" rowsep="1" colsep="1" id="table_zv3_d21_jdc">
+            <title>kjhhkjhkh</title>
+            <tgroup cols="2">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>
+                            <p>kjkjjkh</p>
+                        </entry>
+                        <entry>
+                            <p>jkhkjh</p>
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            <p>bbmnbmm</p>
+                        </entry>
+                        <entry>
+                            <p>khjkjhkh</p>
+                        </entry>
+                    </row>
+                    <row>
+                        <entry>
+                            <p>khkhjkh</p>
+                        </entry>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                    <row>
+                        <entry/>
+                        <entry/>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </conbody>
+</concept>
